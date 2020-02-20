@@ -1,0 +1,2 @@
+class LocatorType < ApplicationRecord
+end
